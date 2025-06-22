@@ -18,7 +18,7 @@ The easiest way to manage bugs in test versions of your web projects.
         googleSheetsLink: 'YOUR_GOOGLE_SHEET',
         isHidden: false
     };
-    (function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.type="module";s.src=u; var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x); })('https://vmikh.github.io/bugbox/dist/prod/app-min.js');
+    (function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.type="module";s.src=u; var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x); })('https://sashaux.github.io/bugbox/dist/prod/app-min.js');
 </script>
 ```
 
